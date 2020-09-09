@@ -14,7 +14,7 @@
 
 对帖子收藏点赞，评论及对评论的回复举报功能
 
-![](C:\Users\Aich\Desktop\软工\img\9.7\网站草图_帖子详情较为精致版.jpg)
+![](https://github.com/Aich-Ying/software.img/blob/master/%E7%BD%91%E7%AB%99%E8%8D%89%E5%9B%BE_%E5%B8%96%E5%AD%90%E8%AF%A6%E6%83%85%E8%BE%83%E4%B8%BA%E7%B2%BE%E8%87%B4%E7%89%88.jpg)
 
 ### 个人信息栏
 
@@ -24,11 +24,11 @@
 
 会在帖子详情页举报功能中实现，要填写举报类型及具体原因
 
-![](C:\Users\Aich\Desktop\软工\img\9.7\网站草图_个人信息及举报弹框.jpg)
+![](https://github.com/Aich-Ying/software.img/blob/master/%E7%BD%91%E7%AB%99%E8%8D%89%E5%9B%BE_%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%8F%8A%E4%B8%BE%E6%8A%A5%E5%BC%B9%E6%A1%86.jpg)
 
 ### 登陆注册页
 
-![](C:\Users\Aich\Desktop\软工\img\9.7\网站草图_登录注册.jpg)
+![](https://github.com/Aich-Ying/software.img/blob/master/%E7%BD%91%E7%AB%99%E8%8D%89%E5%9B%BE_%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C.jpg)
 
 ---
 
@@ -38,7 +38,7 @@
 
 
 
-![image-20200907203700138](C:\Users\Aich\AppData\Roaming\Typora\typora-user-images\image-20200907203700138.png)
+![](https://github.com/Aich-Ying/software.img/blob/master/%E7%BD%91%E7%AB%99%E8%8D%89%E5%9B%BE_%E9%A6%96%E9%A1%B5%E5%8F%8A%E5%A4%A7%E8%87%B4%E5%88%86%E5%B7%A5.jpg)
 
 ----
 
