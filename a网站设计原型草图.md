@@ -8,7 +8,7 @@
 
 添加个人信息栏在网页左侧显示
 
-![](C:\Users\Aich\Desktop\软工\img\9.7\网站草图_首页较为精致版.jpg)
+![](https://github.com/Aich-Ying/software.img/blob/master/%E7%BD%91%E7%AB%99%E8%8D%89%E5%9B%BE_%E9%A6%96%E9%A1%B5%E8%BE%83%E4%B8%BA%E7%B2%BE%E8%87%B4%E7%89%88.jpg)
 
 ### 帖子详情页
 
