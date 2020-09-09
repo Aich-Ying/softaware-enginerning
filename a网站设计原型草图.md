@@ -38,7 +38,7 @@
 
 
 
-![](https://github.com/Aich-Ying/software.img/blob/master/%E7%BD%91%E7%AB%99%E8%8D%89%E5%9B%BE_%E9%A6%96%E9%A1%B5%E5%8F%8A%E5%A4%A7%E8%87%B4%E5%88%86%E5%B7%A5.jpg)
+![](https://github.com/Aich-Ying/software.img/blob/master/%E5%88%86%E5%B7%A5.png)
 
 ----
 
